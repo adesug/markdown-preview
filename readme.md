@@ -27,5 +27,5 @@
 
 ### gambar
 
-![gambar](https://www.liputan6.com/citizen6/read/3922572/5-penyakit-kucing-yang-wajib-diketahui-oleh-pecinta-kucing)
+ ![gambar](https://res.cloudinary.com/desug/image/upload/v1614658900/Book%20/pluginlogo_gnhbmk.png)
 
